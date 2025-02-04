@@ -1,2 +1,2 @@
 # .github
-Bravion organization README file
+bravion.ai README file
